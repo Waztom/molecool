@@ -14,6 +14,10 @@ repo and type:
 
 in the repository directory
 
+This package requires:
+- Numpy
+- Matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Warren
