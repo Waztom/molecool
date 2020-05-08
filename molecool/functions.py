@@ -29,7 +29,7 @@ Namespaces are one honking great idea -- let's do more of those!
 """
 
     if with_attribution:
-        qoute += "\n\t- Adapted from Henry David Thoreau"
+        qoute += "\n\t- Adapted from Tim Peters"
     return qoute
  
 
