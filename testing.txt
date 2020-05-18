@@ -1,1 +1,2 @@
 Added a new file to test git
+Added a new line
