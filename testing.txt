@@ -1,2 +1,12 @@
+****************************
+
+This is a messed up file
+
+
 Added a new file to test git
+
 Added a new line
+
+****************************
+This is the end of the file
+****************************
